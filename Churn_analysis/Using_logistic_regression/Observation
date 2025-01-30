@@ -1,4 +1,0 @@
-The observation of the code:
-The accuracy of the model without using PCA was 76.29%
-The accuracy of the model with PCA was 70.40% 
-It is possible that PCA may have removed useful information.
